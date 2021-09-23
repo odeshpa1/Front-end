@@ -1,0 +1,40 @@
+
+body {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/474/347/805/other-wallpaper-preview.jpg);
+    background-size: cover;
+}
+
+div, h1 {
+    text-align: center;
+}
+
+li {
+    list-style: none !important;   
+}
+
+li {
+    list-style: outside;
+}
+
+.p-class {
+    color: gold;
+}
+
+#div1 {
+    text-align: right;
+}
+
+div h4 {
+    color: darkgreen;
+}
+
+div + h4   {
+    color: darkgoldenrod;
+}
+
+div > h4 {
+    color: greenyellow;
+}
+
+
+
